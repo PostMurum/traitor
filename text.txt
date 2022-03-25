@@ -1,7 +1,3 @@
 some text
-<<<<<<< HEAD
-121
-=======
 123
 and 123
->>>>>>> branch2
